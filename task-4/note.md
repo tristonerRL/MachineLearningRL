@@ -1,0 +1,20 @@
+
+# powershell
+
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/101588049266_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/111588049272_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/121588049279_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/131588049285_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/141588049290_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/141588049290_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/151588049295_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/151588049295_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/161588049301_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/21588049212_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/31588049219_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/41588049225_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/51588049232_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/61588049241_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/71588049246_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/81588049256_.pic_hd.jpg)
+![image](https://raw.githubusercontent.com/tristonerRL/MachineLearningRL/master/task-4/91588049262_.pic_hd.jpg)
